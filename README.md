@@ -1,4 +1,4 @@
-# THIS PROJECT HAS BEEN DISCONTINUED. ANY FURTHER ISSUES WON'T BE ANSWERED BY US!
+# THIS IS ALUCARD BUT EDITED AND MADE IT LIL BIT BETTER SO CREDIT TO ALUCARD OWNERS!
 
 # Setup
   - Since it's discontinuted and some good guy (trickstr) decided to make a video tutorial about it
@@ -10,7 +10,7 @@ Everything you can see here has been made for educational purposes and proof of 
 
 
 
-[![Run on Repl.it](https://repl.it/badge/github/Alucard-Selfbot/Alucard-Selfbot-src)](https://repl.it/github/Alucard-Selfbot/Alucard-Selfbot-src)
+**YOU CAN HOST IT ON REPIL ETC AND WHEN YOU TYPE !HELP IT WILL SEND ALL THE COMMANDS IN CMD PANEL INSTEAD OF THE ALUCARD COMMAND WEBSITE ALSO ADDED FEW MORE COMMANDS**
 
 ##### thanks for the yt vid ~ Fweak
 
